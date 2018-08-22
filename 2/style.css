@@ -1,0 +1,45 @@
+div {
+  position: absolute;
+  width: 100%;
+  top: 30%;
+  text-align: center;
+}
+button {
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  line-height: 20px;
+  padding: 6px 12px;
+  background-color: #e0e0e0;
+  color: #333333;
+}
+button:hover {
+  background-color: #e8e8e8;
+  color: #333333;
+}
+.btn-info {
+  background-color: #3b83c0;
+  color: #ffffff;
+}
+.btn-info:hover {
+  background-color: #458ac6;
+  color: #ffffff;
+}
+.btn-sec {
+  background-color: #404245;
+  color: #ffffff;
+}
+.btn-sec:hover {
+  background-color: #1b1c1d;
+  color: #ffffff;
+}
+.xs-size {
+  font-size: 10px;
+  line-height: 20px;
+  padding: 2px 4px;
+}
+.xl-size {
+  font-size: 18px;
+  line-height: 20px;
+  padding: 10px 16px;
+}
